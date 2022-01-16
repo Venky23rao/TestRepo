@@ -2,7 +2,3 @@ Change1
 Change2
 Change3
 Change4
-
-Changes made in remote by team.
-
-Changes in local for bug. 
